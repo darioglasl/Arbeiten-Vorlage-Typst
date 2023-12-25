@@ -4,7 +4,7 @@ Dieses Kapitel umfasst die Resultate dieser Arbeit und es wird darauf eingegange
 #pagebreak()
 #include "02_known_bugs.typ"
 #pagebreak()
-#include "03_empfehlung_gamification.typ"
+#include "03_empfehlung.typ"
 #pagebreak()
 #include "04_empfehlung_other.typ"
 #pagebreak()
