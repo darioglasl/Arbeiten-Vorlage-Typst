@@ -1,0 +1,11 @@
+# https://typst.app/docs/reference/meta/bibliography/
+# https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+modulbeschreibungSA:
+  type: article
+  title: "Modulbeschreibung: Studienarbeit Informatik"
+  publisher: "OST – Ostschweizer Fachhochschule"
+  date: 2023-11-15
+  url: 
+    value: https://studien.rj.ost.ch/allModules/40906_M_SAI21.html
+    date: 2023-12-16

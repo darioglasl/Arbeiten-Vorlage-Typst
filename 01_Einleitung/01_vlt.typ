@@ -1,0 +1,1 @@
+== Industrie Partner <headingIndustrialPartner>

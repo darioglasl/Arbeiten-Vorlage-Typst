@@ -1,0 +1,1 @@
+/ Glossar: Eine Ansammlung an Begriffen, die in erklärt werden müssen.
