@@ -1,6 +1,6 @@
 TODO: text
 
-#include "01_vlt.typ"
+#include "01_industrial_partner.typ"
 #pagebreak()
 #include "05_problemstellung.typ"
 #pagebreak()
